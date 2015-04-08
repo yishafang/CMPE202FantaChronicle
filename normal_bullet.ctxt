@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=dir
+comment0.target=normal_bullet(java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=direction
+comment2.target=void\ shoot(java.lang.String)
+comment3.params=speed
+comment3.target=void\ shootLeft(int)
+comment4.params=speed
+comment4.target=void\ shootUp(int)
+comment5.params=speed
+comment5.target=void\ shootDown(int)
+numComments=6

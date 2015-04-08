@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BossStage()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ BossStage.\n\ \n
+comment1.params=ch
+comment1.target=BossStage(Character)
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=Character\ getCharacter()
+numComments=5

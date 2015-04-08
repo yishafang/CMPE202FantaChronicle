@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=wing(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=d
+comment2.target=int\ wander(int)
+comment3.params=dx\ dy
+comment3.target=int\ dashStandby(int,\ int)
+comment4.params=d
+comment4.target=void\ dash(int)
+comment5.params=
+comment5.target=void\ takeHit()
+numComments=6
